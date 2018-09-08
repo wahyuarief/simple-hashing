@@ -9,7 +9,7 @@
 ## How To Use
 >
 ```
-git clone https://github.com/wahyuarief/simple-hashing.git
+git clone https://github.com/wahyuief/simple-hashing.git
 cd simple-hashing/
 python2 main.py
 ```
