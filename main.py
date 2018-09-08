@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-# made with love by wahyuarief
+# Simple hashing data
+# Made with love by wahyuief
 
 import hashlib, os
 
